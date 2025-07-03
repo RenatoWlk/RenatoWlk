@@ -4,7 +4,7 @@
 ![Stars](https://img.shields.io/github/stars/RenatoWlk?style=social)
 
 - 🔭 I'm currently studying Information Systems at PUC Campinas.
-- 💻 Work experience at Motorola Mobility as R&D web developer.
+- 💻 R&D Intern at Motorola Mobility.
 - 📫 How to reach me: [📧 E-mail](mailto:renatowilkerpaulasilva9@gmail.com)
 
 ## 🛠️ Languages, Tools & Frameworks
